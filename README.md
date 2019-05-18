@@ -1,2 +1,2 @@
 # Homework2
-A project on html and Css
+A project on Html and Css
